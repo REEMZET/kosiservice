@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "987733786476",
+    "firebase_url": "https://firstandfast-781dd-default-rtdb.firebaseio.com",
+    "project_id": "firstandfast-781dd",
+    "storage_bucket": "firstandfast-781dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987733786476:android:ce0b56b9c8490479273d49",
+        "android_client_info": {
+          "package_name": "com.click.firstclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRWRZ3zQxhVrPl3LDSXTDMXTfJFVWpWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987733786476-rf2sllop2ulkj9mvi21vo8c08aps0g4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kosi.kosiservice.kosiService"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987733786476:android:6fea3ff20ae1b46e273d49",
+        "android_client_info": {
+          "package_name": "com.firstandfast.fadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRWRZ3zQxhVrPl3LDSXTDMXTfJFVWpWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987733786476-rf2sllop2ulkj9mvi21vo8c08aps0g4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kosi.kosiservice.kosiService"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987733786476:android:98bbbc8a818ec0db273d49",
+        "android_client_info": {
+          "package_name": "com.kosi.kosiservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987733786476-nmf6aj35ho8ip3h6lcnlfb4bgfmg1e85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosi.kosiservice",
+            "certificate_hash": "0541f7658790eb950fb81c044efe1c2faaede7ca"
+          }
+        },
+        {
+          "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRWRZ3zQxhVrPl3LDSXTDMXTfJFVWpWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987733786476-rf2sllop2ulkj9mvi21vo8c08aps0g4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kosi.kosiservice.kosiService"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987733786476:android:3aa52a2b1ec47aa6273d49",
+        "android_client_info": {
+          "package_name": "com.kosi.kosiweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRWRZ3zQxhVrPl3LDSXTDMXTfJFVWpWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987733786476-68k08dd4liu831gbdpanllmec4r32vm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987733786476-rf2sllop2ulkj9mvi21vo8c08aps0g4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kosi.kosiservice.kosiService"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

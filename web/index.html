@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Kosi Service, IKSPL (INDPE KOSI SERVICE PRIVATE LIMITED) is an all-in-one app that connects
+  you with local service providers including cleaners, electricians, plumbers, drivers, wall painters, and carpenters.
+   With just a few taps on your smartphone">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="kosiservice">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link href="icons/logofirst.png" rel="apple-touch-icon">
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>IKSPL (INDPE KOSI SERVICE PRIVATE LIMITED)</title>
+
+  <!-- Favicon -->
+  <link href="icons/logofirst.png" rel="icon" type="image/png"/>
+
+  <link rel="manifest" href="manifest.json">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MXZKFWK2');</script>
+
+  <!-- End Google Tag Manager -->
+
+
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PR95QVJ8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAQzj4K4H8RARgq-YNHh6G-YaKFdq3WgY"></script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAQzj4K4H8RARgq-YNHh6G-YaKFdq3WgY&libraries=places"></script>
+  <script type="text/javascript">
+    window.flutterWebRenderer = "html";
+</script>
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    var serviceWorkerVersion = null;
+  </script>
+
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXZKFWK2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.1.0/firebase-app.js'
+
+    // If you enabled Analytics in your project, add the Firebase SDK for Google Analytics
+    import { getAnalytics } from 'https://www.gstatic.com/firebasejs/10.1.0/firebase-analytics.js'
+
+    // Add Firebase products that you want to use
+    import { getAuth } from 'https://www.gstatic.com/firebasejs/10.1.0/firebase-auth.js'
+    import { getFirestore } from 'https://www.gstatic.com/firebasejs/10.1.0/firebase-firestore.js'
+    const firebaseConfig = {
+  apiKey: "AIzaSyBScD54azyQNpWJ03bQ8fX-NEOmWvqho4s",
+  authDomain: "firstandfast-781dd.firebaseapp.com",
+  databaseURL: "https://firstandfast-781dd-default-rtdb.firebaseio.com",
+  projectId: "firstandfast-781dd",
+  storageBucket: "firstandfast-781dd.appspot.com",
+  messagingSenderId: "987733786476",
+  appId: "1:987733786476:web:fd03f93c768ed7f0273d49",
+  measurementId: "G-VEVLPJJL1B"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+</script>
+  <script>
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        },
+        onEntrypointLoaded: function(engineInitializer) {
+          engineInitializer.initializeEngine().then(function(appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
